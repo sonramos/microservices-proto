@@ -4,7 +4,7 @@
 # Modifique os parâmetros abaixo conforme necessário
 
 GITHUB_USERNAME="sonramos"
-GITHUB_EMAIL="sonramos@users.noreply.github.com"
+GITHUB_EMAIL="jackson.ramoosg@gmail.com"
 
 # Diretório raiz do projeto (onde está microservices-proto)
 PROJECT_ROOT="$(cd "$(dirname "$0")" && pwd)"
